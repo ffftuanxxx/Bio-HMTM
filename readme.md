@@ -87,4 +87,6 @@ Under the guidance of instructor Jiaxin Chen.
 
 ## Citation
 
-We are very thankful for the work provided by [Jian Hu, et al.](https://github.com/jianhuupenn/TESLA)
+We are very thankful for the work provided by Jian Hu, et al.
+
+Hu, J., Coleman, K., Zhang, D., Lee, E. B., Kadara, H., Wang, L., & Li, M. (2023). Deciphering tumor ecosystems at super resolution from spatial transcriptomics with TESLA. Cell systems, 14(5), 404-417.
