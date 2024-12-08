@@ -83,7 +83,7 @@ This project is a collaborative effort by:
 - Yichen Yuan (2130026190)
 - Shi He (2130026041)
 
-Under the guidance of instructor Jiaxin Chen.
+Under the guidance of instructor Dr. Jiaxin Chen.
 
 ## Citation
 
